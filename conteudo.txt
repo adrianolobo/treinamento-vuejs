@@ -1,0 +1,75 @@
+Apresentação
+Introdução VueJS
+  - Criador
+  - framework progressivo
+  - Nome
+  - diferenças entre outros frameworks js
+  - documentação
+    - https://vuejs.org/v2/guide/
+VueCLI
+  - atualização
+  - templates
+    - https://github.com/vuejs-templates/webpack
+      - http://vuejs-templates.github.io/webpack/
+  - Init
+    - vue init webpack my-project
+  - estrutura base
+  - arquivo .Vue
+  - eslint: AirBnb
+    - es6
+    - /*eslint-disable */
+    - // eslint-disable-next-line
+  - webpack
+VueJS
+  - instância
+  - data()
+    - interpolation {{ }}
+    - v-for
+    - v-if
+    - v-bind
+    - v-on
+      - click
+        - event modifiers
+          - stop
+          - prevent
+          - once
+          - @keyup.enter
+    - syntax sugar
+      :
+      @
+  - Dev Tools
+  - methods
+  - computed
+    - class binding
+      :class
+  - components
+  - props
+  - lifecycle
+    - https://vuejs.org/images/lifecycle.png
+  - reatividade
+  - oneway databind
+    - prop down event up
+  - slot
+  - transitions
+
+Vue-Router
+  - objeto
+  - router-view
+  - router-link
+  - nested routes
+  - Guards
+    - https://router.vuejs.org/guide/advanced/navigation-guards.html#global-guards
+  - transition
+  - props
+
+Vuex
+
+  - conceito
+  - quando utilizar
+  - fluxo
+
+CSS
+  SASS
+  SCOPED
+    - deep
+  B.E.M
